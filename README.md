@@ -1,4 +1,4 @@
-# sbb-lobby
+# storybook brawl is playable in 2026
 
 Put the launcher in the same directory as storybookBrawl.exe 
 
