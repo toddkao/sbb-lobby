@@ -1,6 +1,6 @@
 # storybook brawl is playable in 2026
 
-(This is built for the latest version released on steam)
+(This is built for the latest version released on steam, v0.74.16)
 
 Put the launcher in the same directory as storybookBrawl.exe 
 
